@@ -24,13 +24,13 @@ $(document).ready(function() {
       userStatuses = $('<div>'),
       userFriends = $('<div>');
 
-      userId.addClass('col-xs-2').addClass('user-id');
+      userId.addClass('col-xs-12').addClass('col-sm-6').addClass('col-lg-2').addClass('user-id');
       userId.text('ID: ' + alldata[i].user.id_str);
 
-      userLocation.addClass('col-xs-3').addClass('user-location');
+      userLocation.addClass('col-xs-12').addClass('col-sm-6').addClass('col-lg-3').addClass('user-location');
       userLocation.text('Location: ' + alldata[i].user.location);
 
-      userImg.addClass('col-xs-7').addClass('user-image');
+      userImg.addClass('col-xs-12').addClass('col-sm-12').addClass('col-lg-7').addClass('user-image');
       userImg.text('Image: ' + alldata[i].user.profile_image_url);
 
       userStatuses.addClass('col-xs-6').addClass('user-statuses');
