@@ -1,0 +1,23 @@
+.user-name{
+  background: #29FEFF;
+  font-size: 1.5em;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 30px;
+  border-bottom: 1px solid #C3C3C3;
+  padding: 15px 0;
+}
+
+.user-id,
+.user-location,
+.user-image,
+.user-statuses,
+.user-friends{
+	text-align: center;
+	padding: 10px 0;
+	background: #FFFCB0;
+	border-left: 1px solid #C3C3C3;
+	border-right: 1px solid #C3C3C3;
+	border-bottom: 1px solid #C3C3C3;
+	font-weight: 600;
+}
