@@ -138,14 +138,14 @@ window.alldata = [
       "profile_sidebar_fill_color": "DDEEF6",
       "profile_sidebar_border_color": "C0DEED",
       "profile_background_tile": false,
-      "name": "Twitter API",
+      "name": "Alex",
       "profile_image_url": "http://a0.twimg.com/profile_images/2284174872/7df3h38zabcvjylnyfe3_normal.png",
       "created_at": "Wed May 23 06:01:13 +0000 2007",
-      "location": "San Francisco, CA",
+      "location": "New Brunswick, NJ",
       "follow_request_sent": false,
       "profile_link_color": "0084B4",
       "is_translator": false,
-      "id_str": "6253282",
+      "id_str": "6647463",
       "entities": {
         "url": {
           "urls": [
@@ -187,8 +187,8 @@ window.alldata = [
       "description": "The Real Twitter API. I tweet about API changes, service issues and happily answer questions about Twitter and our API. Don't get an answer? It's on my website.",
       "default_profile_image": false,
       "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
-      "statuses_count": 3333,
-      "friends_count": 31,
+      "statuses_count": 4576,
+      "friends_count": 923,
       "following": null,
       "show_all_inline_media": false,
       "screen_name": "twitterapi"
